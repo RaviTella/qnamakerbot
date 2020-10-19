@@ -34,6 +34,7 @@ QnA knowledge base setup and application configuration steps can be found [here]
     ```
 
 - In a terminal, navigate to `qnamakerbot`
+- Update appsettings.json file with the QnA service conenction information
 - Run the bot from a terminal or from Visual Studio, choose option A or B.
 
   A) From a terminal
