@@ -33,7 +33,7 @@ QnA knowledge base setup and application configuration steps can be found [here]
     git clone https://github.com/RaviTella/qnamakerbot.git
     ```
 
-- In a terminal, navigate to `samples/csharp_dotnetcore/11a.qnamaker`
+- In a terminal, navigate to `qnamakerbot`
 - Run the bot from a terminal or from Visual Studio, choose option A or B.
 
   A) From a terminal
