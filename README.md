@@ -23,7 +23,7 @@ This bot uses [QnA Maker Service](https://www.qnamaker.ai), an AI based cognitiv
 
 ### Create a QnAMaker Application to enable QnA Knowledge Bases
 
-QnA knowledge base setup and application configuration steps can be found [here](https://aka.ms/qna-instructions).
+QnA knowledge base setup and application configuration steps can be found [here](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/quickstarts/create-publish-knowledge-base).
 
 ## To try this sample
 
