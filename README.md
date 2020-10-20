@@ -72,7 +72,9 @@ One of the basic requirements in writing your own bot is to seed it with questio
 
 ## Deploy the bot to Azure
 
-To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions.
+Create a Web App Bot Azure resource, see [Web App Bot instructions](https://docs.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0).
+
+Deploy the Bot to Azure from Visual Studio
 
 ## Further reading
 
