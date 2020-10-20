@@ -70,6 +70,17 @@ Create a Web App Bot Azure resource, see [Web App Bot instructions](https://docs
 
 Deploy the Bot to Azure from Visual Studio
 
+Enable Teams channel in the Web App Bot
+
+
+## Create a Bot for Teams
+
+Create app manifest and package using app studio  [Teams Bot](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/create-a-bot-for-teams).
+
+When adding the Bot to the App manifest make sure the BOT ID matches the web app bot MicrosoftAppId (You can get this from the app settings of web app bot)
+
+Install the bot in teams via Test and Distribute menu
+
 ## Further reading
 
 - [Bot Framework Documentation](https://docs.botframework.com)
