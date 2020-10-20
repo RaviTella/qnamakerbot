@@ -79,7 +79,7 @@ Create app manifest and package using app studio  [Teams Bot](https://docs.micro
 
 When adding the Bot to the App manifest make sure the BOT ID matches the web app bot MicrosoftAppId (You can get this from the app settings of web app bot)
 
-Install the bot in teams via Test and Distribute menu
+Install the Bot in Teams via "Test and Distribute" menu
 
 ## Further reading
 
