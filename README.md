@@ -68,7 +68,7 @@ QnA knowledge base setup and application configuration steps can be found [here]
 
 Create a Web App Bot Azure resource, see [Web App Bot instructions](https://docs.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0).
 
-Deploy the Bot to Azure from Visual Studio
+Deploy the Bot to Azure from Visual Studio, see [Web App deployment instructions](https://docs.microsoft.com/en-us/visualstudio/deployment/quickstart-deploy-to-azure?view=vs-2019).
 
 Enable Teams channel in the Web App Bot
 
